@@ -1,0 +1,124 @@
+
+body{
+  font-family: Arial;
+  color:rgb(20,20,20);
+  background-color: rgb(70, 118, 252);
+}
+
+header{
+  width:100%;
+  text-align: center;
+  text-shadow: 2px 2px 2px rgb(220,220,220);
+  margin-bottom: 1%;
+ 
+    background-color:rgb(50, 50, 250);
+
+  border-bottom:2px solid rgb(255, 66, 44);
+  padding-bottom: 1%;
+  padding-top: 1%;
+  
+}
+
+header h1{
+  font-size: 3em;
+
+}
+
+header h4{
+  font-size: 1.5em;
+}
+
+
+.wrapper{
+
+  width: 85%;
+  height: 80%;
+  
+  margin:auto;
+  margin-bottom:10%;
+}
+
+h2{
+  font-size: 1.3em;
+  text-align: center;
+  margin-bottom: .5%;
+}
+
+h3{
+  font-size: 1.15em;
+  text-align: center;
+  margin-bottom: 1%;
+}
+
+h5{
+  font-size:1.15em;
+  text-align: center;
+}
+
+.third{
+  padding-top: 1%;
+  display: inline-block;
+  width:33%;
+  height: 99%;
+  vertical-align: top;
+  background-color: rgb(255, 66, 44);
+}
+
+.inner-box{
+  margin:0%;
+  padding:2%;
+  width: 94%;
+  height: 94%;
+  vertical-align: top;
+  background-color: inherit;
+
+}
+
+.content-holder{
+  width:96%;
+  padding:2%;
+  display:block;
+  background-color: rgb(225,225,225);
+  height: 94%;
+  vertical-align: top;
+}
+
+form{
+  margin-bottom: 1%;
+}
+
+.content-holder img{
+  width:100%;
+  max-height: 75%;
+  margin-bottom: 2%;
+}
+
+.input-feild{
+  width: 80%;
+}
+
+.change-pres-buttons{
+  width:48%;
+
+}
+
+.pres{
+	margin-bottom:.25%;
+}
+
+
+footer{
+	height:6%;
+	width:100%;
+  background-color:rgb(50, 50, 250);
+  text-align: center;
+    text-shadow: 1px 1px 1px  white;
+  position:fixed;
+  bottom:0;
+  border-top:2px solid rgb(255, 66, 44);
+}
+footer p{
+	padding:5px;
+	text-align:center;
+}
+
